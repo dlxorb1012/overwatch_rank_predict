@@ -1,0 +1,103 @@
+1520192955239	geckodriver	INFO	geckodriver 0.19.1
+1520192955255	geckodriver	INFO	Listening on 127.0.0.1:62020
+1520192958349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dlxor\\AppData\\Local\\Temp\\rust_mozprofile.S6lXvrV8efcg"
+1520192959117	Marionette	INFO	Enabled via --marionette
+1520192961980	Marionette	INFO	Listening on port 62028
+1520192962110	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=[GFX1-]: Receive IPC cAbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0016,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+lose with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E001F,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x280016,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1520193008558	geckodriver	INFO	geckodriver 0.19.1
+1520193008573	geckodriver	INFO	Listening on 127.0.0.1:62342
+1520193011673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dlxor\\AppData\\Local\\Temp\\rust_mozprofile.3DEsKrt3LZgt"
+1520193012534	Marionette	INFO	Enabled via --marionette
+1520193014801	Marionette	INFO	Listening on port 62350
+1520193014858	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dlxor\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dlxor\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dlxor\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dlxor\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520196180280	geckodriver	INFO	geckodriver 0.19.1
+1520196180280	geckodriver	INFO	Listening on 127.0.0.1:52797
+1520196183389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dlxor\\AppData\\Local\\Temp\\rust_mozprofile.QyO7i19tWDmp"
+1520196185073	Marionette	INFO	Enabled via --marionette
+1520196187056	Marionette	INFO	Listening on port 52805
+1520196187172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520238743550	geckodriver	INFO	geckodriver 0.19.1
+1520238743565	geckodriver	INFO	Listening on 127.0.0.1:64340
+1520238746690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dlxor\\AppData\\Local\\Temp\\rust_mozprofile.YddleixhlEXi"
+1520238748414	Marionette	INFO	Enabled via --marionette
+1520238750286	Marionette	INFO	Listening on port 64348
+1520238750367	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dlxor\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dlxor\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
