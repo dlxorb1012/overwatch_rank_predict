@@ -54,7 +54,7 @@ def get_user_data(url):
 max_page_list = [6466, 5014, 4149, 3094]
 season = 5
 current_worked_page = 51
-f = open("C:\\Users\\dlxor\\Desktop\\python_projects\\overwatch_dataset3.txt", 'a')
+f = open("C:\\Users\\Administrator\\Desktop\\overwatch_rank_predict-master\\data.txt", 'a')
 for n in range(current_worked_page, max_page_list[season-2]):
     print('Season: ', season, 'Page: ', n)
     f.write(n)
