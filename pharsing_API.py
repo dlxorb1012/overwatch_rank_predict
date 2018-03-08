@@ -57,7 +57,6 @@ current_worked_page = 51
 f = open("C:\\Users\\Administrator\\Desktop\\overwatch_rank_predict-master\\data.txt", 'a')
 for n in range(current_worked_page, max_page_list[season-2]):
     print('Season: ', season, 'Page: ', n)
-    f.write(n)
     data_list = []
     user_url_list = get_user_list(get_url_html_soup(url(season, n)))
     for i in range(len(user_url_list)):
