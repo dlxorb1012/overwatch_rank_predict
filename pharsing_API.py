@@ -1,9 +1,19 @@
+import pip
+
+
+def install(package):
+    pip.main(['install', package])
+
+
+install('bs4')
+install('selenium')
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from time import sleep
 
 # driver = webdriver.Chrome('\\Users\\dlxor\\Desktop\\melee\\Develop\\chromedriver')
 
-driver = webdriver.Firefox(executable_path='C:\\Users\\dlxor\\Desktop\\melee\\Develop\\geckodriver.exe')
+driver = webdriver.Firefox(executable_path='C:\\Users\\Administrator\\Desktop\\overwatch_rank_predict-master\\geckodriver.exe')
 driver.implicitly_wait(3)
 
 def url(ss, page):
@@ -90,6 +100,7 @@ for n in range(current_worked_page, max_page_list[season-2]):
         if write_text[len(write_text)-1] != '\n':
             f.write(write_text + '\n')
         index = index + 4
+    sleep(5)
 
 f.close()
 
